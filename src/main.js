@@ -11,7 +11,8 @@ Vue.use(purecss)
 import App from './App'
 /* eslint-disable no-new */
 new Vue({
-  el: '#app',
+  el: '#app',//Provide the Vue instance an existing DOM element to mount on. 
+  //It can be a CSS selector string or an actual HTMLElement.
   template: '<App/>',
   components: { App },
   router

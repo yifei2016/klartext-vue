@@ -17,7 +17,7 @@
 
         $ docker system prune
 
-Server with hot reload can be accessed at [localhost:5001](http://localhost:5000)
+Server with hot reload can be accessed at [localhost:5001](http://localhost:5001)
 
 ### Install node modules
 Make sure you have a running container then install `node module` with:
